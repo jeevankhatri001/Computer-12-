@@ -1,0 +1,41 @@
+
+body {
+    background-image:url("img/Ap.jpg") ;
+}
+header {
+    text-align: center;
+    width: 100vw;
+    height: 15vh;
+    line-height: 12.5vh;
+    font-size: 24px;
+    letter-spacing: 0.062em;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: inline;
+    padding: 25px 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+ 
+
+h1{
+    color: darkgray;
+} 
+h2{
+    color: darkgray;
+}
+
+p{
+    color: aliceblue;
+}
